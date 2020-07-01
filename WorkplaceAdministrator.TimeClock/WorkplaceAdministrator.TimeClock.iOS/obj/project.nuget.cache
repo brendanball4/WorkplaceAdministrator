@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "pW5A5wxnC58RzqqxJJbFHbHPRh3dwT8Hj384tzFTzMp/ez8+RZastqKk1wtSS7R85HZ7/RlIVt212SbZHuvqXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Chase\\Desktop\\FBWebsite-V2\\WorkplaceAdministrator\\WorkplaceAdministrator.TimeClock\\WorkplaceAdministrator.TimeClock.iOS\\WorkplaceAdministrator.TimeClock.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Chase\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.5.0.495\\xamarin.forms.4.5.0.495.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\Chase\Desktop\FBWebsite-V2\WorkplaceAdministrator\WorkplaceAdministrator.TimeClock\WorkplaceAdministrator.TimeClock\bin\Debug\netstandard2.0\WorkplaceAdministrator.TimeClock.deps.json
+C:\Users\Chase\Desktop\FBWebsite-V2\WorkplaceAdministrator\WorkplaceAdministrator.TimeClock\WorkplaceAdministrator.TimeClock\bin\Debug\netstandard2.0\WorkplaceAdministrator.TimeClock.dll
+C:\Users\Chase\Desktop\FBWebsite-V2\WorkplaceAdministrator\WorkplaceAdministrator.TimeClock\WorkplaceAdministrator.TimeClock\bin\Debug\netstandard2.0\ref\WorkplaceAdministrator.TimeClock.dll
+C:\Users\Chase\Desktop\FBWebsite-V2\WorkplaceAdministrator\WorkplaceAdministrator.TimeClock\WorkplaceAdministrator.TimeClock\bin\Debug\netstandard2.0\WorkplaceAdministrator.TimeClock.pdb
+C:\Users\Chase\Desktop\FBWebsite-V2\WorkplaceAdministrator\WorkplaceAdministrator.TimeClock\WorkplaceAdministrator.TimeClock\obj\Debug\netstandard2.0\WorkplaceAdministrator.TimeClock.csprojAssemblyReference.cache
+C:\Users\Chase\Desktop\FBWebsite-V2\WorkplaceAdministrator\WorkplaceAdministrator.TimeClock\WorkplaceAdministrator.TimeClock\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Chase\Desktop\FBWebsite-V2\WorkplaceAdministrator\WorkplaceAdministrator.TimeClock\WorkplaceAdministrator.TimeClock\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Chase\Desktop\FBWebsite-V2\WorkplaceAdministrator\WorkplaceAdministrator.TimeClock\WorkplaceAdministrator.TimeClock\obj\Debug\netstandard2.0\WorkplaceAdministrator.TimeClock.AssemblyInfoInputs.cache
+C:\Users\Chase\Desktop\FBWebsite-V2\WorkplaceAdministrator\WorkplaceAdministrator.TimeClock\WorkplaceAdministrator.TimeClock\obj\Debug\netstandard2.0\WorkplaceAdministrator.TimeClock.AssemblyInfo.cs
+C:\Users\Chase\Desktop\FBWebsite-V2\WorkplaceAdministrator\WorkplaceAdministrator.TimeClock\WorkplaceAdministrator.TimeClock\obj\Debug\netstandard2.0\WorkplaceAdministrator.TimeClock.csproj.CoreCompileInputs.cache
+C:\Users\Chase\Desktop\FBWebsite-V2\WorkplaceAdministrator\WorkplaceAdministrator.TimeClock\WorkplaceAdministrator.TimeClock\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Chase\Desktop\FBWebsite-V2\WorkplaceAdministrator\WorkplaceAdministrator.TimeClock\WorkplaceAdministrator.TimeClock\obj\Debug\netstandard2.0\WorkplaceAdministrator.TimeClock.dll
+C:\Users\Chase\Desktop\FBWebsite-V2\WorkplaceAdministrator\WorkplaceAdministrator.TimeClock\WorkplaceAdministrator.TimeClock\obj\Debug\netstandard2.0\ref\WorkplaceAdministrator.TimeClock.dll
+C:\Users\Chase\Desktop\FBWebsite-V2\WorkplaceAdministrator\WorkplaceAdministrator.TimeClock\WorkplaceAdministrator.TimeClock\obj\Debug\netstandard2.0\WorkplaceAdministrator.TimeClock.pdb

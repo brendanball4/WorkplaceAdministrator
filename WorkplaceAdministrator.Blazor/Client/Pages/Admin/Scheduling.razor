@@ -1,0 +1,26 @@
+﻿@page "/admin/schedule"
+@attribute [Authorize(Roles = "Admin, Staff")]
+@using Syncfusion.Blazor.Schedule
+@using WorkplaceAdministrator.Common
+@inject IShiftRepo _shiftRepo
+@inject IAccountRepo _accountRepo
+@inject IPositionRepo _positionRepo
+
+<h1>Schedule</h1>
+
+<SfSchedule TValue="ShiftReadEditDto">
+    <ScheduleEventSettings DataSource="Shifts"></ScheduleEventSettings>
+</SfSchedule>
+
+@code {
+    public List<ShiftReadEditDto> Shifts { get; set; }
+    public List<AccountAdminListDto> Accounts { get; set; }
+    public List<Position> Positions { get; set; }
+
+    protected async override void OnInitialized()
+    {
+        Shifts = await _shiftRepo.GetAllShifts();
+        Accounts = await _accountRepo.GetAllUsers();
+        Positions = await _positionRepo.GetAllPositions();
+    }
+}
