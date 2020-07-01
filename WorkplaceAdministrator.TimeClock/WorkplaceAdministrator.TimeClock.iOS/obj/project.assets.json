@@ -1045,24 +1045,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Chase\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\dofus\\.nuget\\packages\\": {},
+    "D:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Chase\\Desktop\\FBWebsite-V2\\WorkplaceAdministrator\\WorkplaceAdministrator.TimeClock\\WorkplaceAdministrator.TimeClock.iOS\\WorkplaceAdministrator.TimeClock.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\dofus\\Downloads\\FBWebsite-V2-master(1)\\FBWebsite-V2-master\\WorkplaceAdministrator\\WorkplaceAdministrator.TimeClock\\WorkplaceAdministrator.TimeClock.iOS\\WorkplaceAdministrator.TimeClock.iOS.csproj",
       "projectName": "WorkplaceAdministrator.TimeClock.iOS",
-      "projectPath": "C:\\Users\\Chase\\Desktop\\FBWebsite-V2\\WorkplaceAdministrator\\WorkplaceAdministrator.TimeClock\\WorkplaceAdministrator.TimeClock.iOS\\WorkplaceAdministrator.TimeClock.iOS.csproj",
-      "packagesPath": "C:\\Users\\Chase\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Chase\\Desktop\\FBWebsite-V2\\WorkplaceAdministrator\\WorkplaceAdministrator.TimeClock\\WorkplaceAdministrator.TimeClock.iOS\\obj\\",
+      "projectPath": "C:\\Users\\dofus\\Downloads\\FBWebsite-V2-master(1)\\FBWebsite-V2-master\\WorkplaceAdministrator\\WorkplaceAdministrator.TimeClock\\WorkplaceAdministrator.TimeClock.iOS\\WorkplaceAdministrator.TimeClock.iOS.csproj",
+      "packagesPath": "C:\\Users\\dofus\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dofus\\Downloads\\FBWebsite-V2-master(1)\\FBWebsite-V2-master\\WorkplaceAdministrator\\WorkplaceAdministrator.TimeClock\\WorkplaceAdministrator.TimeClock.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
+        "D:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Chase\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\dofus\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -1076,8 +1076,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Chase\\Desktop\\FBWebsite-V2\\WorkplaceAdministrator\\WorkplaceAdministrator.TimeClock\\WorkplaceAdministrator.TimeClock\\WorkplaceAdministrator.TimeClock.csproj": {
-              "projectPath": "C:\\Users\\Chase\\Desktop\\FBWebsite-V2\\WorkplaceAdministrator\\WorkplaceAdministrator.TimeClock\\WorkplaceAdministrator.TimeClock\\WorkplaceAdministrator.TimeClock.csproj"
+            "C:\\Users\\dofus\\Downloads\\FBWebsite-V2-master(1)\\FBWebsite-V2-master\\WorkplaceAdministrator\\WorkplaceAdministrator.TimeClock\\WorkplaceAdministrator.TimeClock\\WorkplaceAdministrator.TimeClock.csproj": {
+              "projectPath": "C:\\Users\\dofus\\Downloads\\FBWebsite-V2-master(1)\\FBWebsite-V2-master\\WorkplaceAdministrator\\WorkplaceAdministrator.TimeClock\\WorkplaceAdministrator.TimeClock\\WorkplaceAdministrator.TimeClock.csproj"
             }
           }
         }

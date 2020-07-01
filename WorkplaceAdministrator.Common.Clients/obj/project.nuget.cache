@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "kexPoXLZjLdRpbWOI4EBvtVrP1pzE2IPRMKlKyum+hPmtbWe8gb7wazNna2SjkPUOxQ+Mwl98oW/13ctfCyYgw==",
+  "dgSpecHash": "2M0NcM3BpT3PnJBHGzLLgGdwnB4H/Q2/DgLrn21u/pyBacgkQxuSNTmKcBOnR77xAZwstmsFzLhcHVClz/LbtA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Chase\\Desktop\\FBWebsite-V2\\WorkplaceAdministrator\\WorkplaceAdministrator.Common.Clients\\WorkplaceAdministrator.Common.Clients.csproj",
+  "projectFilePath": "C:\\Users\\dofus\\Downloads\\FBWebsite-V2-master(1)\\FBWebsite-V2-master\\WorkplaceAdministrator\\WorkplaceAdministrator.Common.Clients\\WorkplaceAdministrator.Common.Clients.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Chase\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Chase\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }
