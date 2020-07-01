@@ -100,7 +100,7 @@ namespace WorkplaceAdministrator.Api
             }
 
             app.UseCors(builder =>
-            builder.WithOrigins("http://localhost:5001")
+            builder.WithOrigins("https://localhost:5001")
                 .AllowAnyHeader()
                 .AllowAnyMethod());
 
